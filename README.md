@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at SOTI as an Intern<br>🌱 I’m currently learning Angular, Cyber Security<br>💬 Ask me about Soccer, Anime<br>📫 How to reach me: Email, Text<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Did you know that the first known computer bug was a real bug? In 1947, a moth got trapped in a Harvard Mark II computer and caused a malfunction. The bug was removed and taped to a logbook, which now resides in the Smithsonian Institution. This incident gave rise to the term "debugging" to describe the process of finding and fixing software errors.
+🔭 I’m currently working at SOTI as a Software Developer<br>🌱 I’m currently learning Data Analytics, Cyber Security<br>💬 Ask me about Soccer, Anime<br>📫 How to reach me: Email, Text<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Did you know that the first known computer bug was a real bug? In 1947, a moth got trapped in a Harvard Mark II computer and caused a malfunction. The bug was removed and taped to a logbook, which now resides in the Smithsonian Institution. This incident gave rise to the term "debugging" to describe the process of finding and fixing software errors.
 
 
 ## 🌐 Socials:
